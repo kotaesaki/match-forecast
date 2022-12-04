@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "wrangler dev src/index.tsx",
+    "deploy": "wrangler publish src/index.tsx",
+    "test": "jest"
+  },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20221111.1",
     "typescript": "^4.9.3",
