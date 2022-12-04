@@ -472,6 +472,11 @@ glob-parent@~5.1.2:
   dependencies:
     is-glob "^4.0.1"
 
+hono@^2.5.7:
+  version "2.5.7"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-2.5.7.tgz#1ad2076668a5b9d0716d05e5b8959f6640bc0f62"
+  integrity sha512-SbDPoN/to90pnLXZpRWCGgk7arqA79vCxFY0oXU3qS0gwrsek2ex4gXs8oqnP8dsKAlXDN185oYhKkmypYg75Q==
+
 html-rewriter-wasm@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/html-rewriter-wasm/-/html-rewriter-wasm-0.4.1.tgz#235e3d96c1aa4bfd2182661ee13881e290ff5ff2"
